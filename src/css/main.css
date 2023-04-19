@@ -31,6 +31,7 @@
 }
 #q4Wrapper article {
   text-align: center;
+  margin: 15px;
 }
 #q4Wrapper article img {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
